@@ -1,8 +1,8 @@
 onshape
 
-# onshape
+# OnShape
 
-> التصميم الحديث بمساعدة الكمبيوتر (CAD) في السحابة
+> Modern Computer-Aided Design (CAD) in the cloud
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -13,7 +13,7 @@ onshape
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
--   [متطلبات](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
@@ -22,7 +22,7 @@ onshape
 
 ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
