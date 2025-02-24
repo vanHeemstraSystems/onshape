@@ -9,7 +9,7 @@
 -   [مسرد](./GLOSSARY.md)
 -   [فتحة](./HATCH.md)
 -   [المضيفين](./HOSTS.md)
--   [الصور](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
@@ -22,7 +22,7 @@
 
 ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
