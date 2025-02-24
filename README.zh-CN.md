@@ -1,14 +1,14 @@
 ONSHAPE
 
-# OnShape
+# ONSHAPE
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> 云中的现代计算机辅助设计（CAD）
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
--   [主持人](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
@@ -20,7 +20,7 @@ ONSHAPE
 
 文本
 
-生成[ritr](https://app.rytr.me)
+生成[Rytr](https://app.rytr.me)
 
 ## 100-简介
 
