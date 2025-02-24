@@ -1,8 +1,8 @@
-onshape
+Onshape
 
 # Onshape
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> Modernes computergestütztes Design (CAD) in der Cloud
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -26,7 +26,7 @@ Erzeugt mit[Ritr](https://app.rytr.me)
 
 Sehen[README.md](./100/README.md)
 
-## 200 - Anforderungen
+## 200 - Requirements
 
 Sehen[README.md](./200/README.md)
 
