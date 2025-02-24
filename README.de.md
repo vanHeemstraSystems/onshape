@@ -5,11 +5,11 @@ Onshape
 > Modernes computergestütztes Design (CAD) in der Cloud
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
@@ -28,9 +28,9 @@ Sehen[README.md](./100/README.md)
 
 ## 200 - Anforderungen
 
-See [README.md](./200/README.md)
+Sehen[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Aufbau unserer Bewerbung
 
 Sehen[README.md](./300/README.md)
 
