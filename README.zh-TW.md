@@ -1,6 +1,6 @@
 ONSHAPE
 
-# ONSHAPE
+# OnShape
 
 > 雲中的現代計算機輔助設計（CAD）
 
@@ -30,7 +30,7 @@ ONSHAPE
 
 看[README.md](./200/README.md)
 
-## 300-構建我們的應用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
