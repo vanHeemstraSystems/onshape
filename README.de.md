@@ -20,7 +20,7 @@ Onshape
 
 Text
 
-Erzeugt mit[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
@@ -30,7 +30,7 @@ Sehen[README.md](./100/README.md)
 
 Sehen[README.md](./200/README.md)
 
-## 300 - Aufbau unserer Bewerbung
+## 300 - Building Our Application
 
 Sehen[README.md](./300/README.md)
 
