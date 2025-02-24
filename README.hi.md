@@ -1,6 +1,6 @@
-onshape
+चपटा
 
-# चपटा
+# OnShape
 
 > क्लाउड में आधुनिक कंप्यूटर एडेड डिज़ाइन (सीएडी)
 
@@ -9,9 +9,9 @@ onshape
 -   [शब्दकोष](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
--   [सबमैन](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [Requirements](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
@@ -20,7 +20,7 @@ onshape
 
 मूलपाठ
 
-के साथ उत्पन्न[रिट्र](https://app.rytr.me)
+Generated with [रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
@@ -30,9 +30,9 @@ onshape
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे आवेदन का निर्माण
 
-देखना[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
