@@ -2,7 +2,7 @@ onshape
 
 # onshape
 
-> التصميم الحديث بمساعدة الكمبيوتر (CAD) في السحابة
+> Modern Computer-Aided Design (CAD) in the cloud
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -22,7 +22,7 @@ onshape
 
 ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - مقدمة
 
 يرى[README.md](./100/README.md)
 
