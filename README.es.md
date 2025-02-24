@@ -1,11 +1,11 @@
-repositorio
+onshape
 
-# Nombre de repositorio
+# OnShape
 
-> Línea de babosa
+> Modern Computer-Aided Design (CAD) in the cloud
 
 -   [DNS](./DNS.md)
--   [Documentación](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Escotilla](./HATCH.md)
 -   [Anfitriones](./HOSTS.md)
@@ -16,7 +16,7 @@ repositorio
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
 
 Texto
 
