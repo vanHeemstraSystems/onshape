@@ -18,7 +18,7 @@ onshape
 
 **ملخص تنفيذي**
 
-نص
+Text
 
 ولدت مع[ريتر](https://app.rytr.me)
 
