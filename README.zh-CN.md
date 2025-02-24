@@ -10,7 +10,7 @@ ONSHAPE
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
--   [nx](./NX.md)
+-   [Nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -24,7 +24,7 @@ ONSHAPE
 
 ## 100-简介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200-要求
 
