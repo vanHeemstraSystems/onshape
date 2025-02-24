@@ -1,6 +1,6 @@
 चपटा
 
-# OnShape
+# चपटा
 
 > क्लाउड में आधुनिक कंप्यूटर एडेड डिज़ाइन (सीएडी)
 
@@ -16,9 +16,9 @@
 -   [आवश्यकताएं](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
-**Executive Summary**
+**कार्यकारी सारांश**
 
-Text
+मूलपाठ
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
@@ -36,4 +36,4 @@ Text
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
