@@ -2,7 +2,7 @@ onshape
 
 # onshape
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> التصميم الحديث بمساعدة الكمبيوتر (CAD) في السحابة
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -24,7 +24,7 @@ onshape
 
 ## 100 - مقدمة
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
