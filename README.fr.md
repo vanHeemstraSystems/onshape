@@ -16,11 +16,11 @@ saliss
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
-Text
+Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Généré avec[Rytr](https://app.rytr.me)
 
 ## 100 - Introduction
 
