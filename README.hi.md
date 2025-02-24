@@ -1,26 +1,26 @@
 चपटा
 
-# OnShape
+# चपटा
 
 > क्लाउड में आधुनिक कंप्यूटर एडेड डिज़ाइन (सीएडी)
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [हैच](./HATCH.md)
+-   [Hatch](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
--   [Podman](./PODMAN.md)
+-   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [आवश्यकताएं](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
 मूलपाठ
 
-Generated with [रिट्र](https://app.rytr.me)
+के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
@@ -32,7 +32,7 @@ Generated with [रिट्र](https://app.rytr.me)
 
 ## 300 - हमारे आवेदन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
