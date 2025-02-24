@@ -1,8 +1,8 @@
 चपटा
 
-# चपटा
+# OnShape
 
-> क्लाउड में आधुनिक कंप्यूटर एडेड डिज़ाइन (सीएडी)
+> Modern Computer-Aided Design (CAD) in the cloud
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
