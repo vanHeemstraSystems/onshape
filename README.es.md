@@ -1,11 +1,11 @@
-onshape
+onda
 
-# OnShape
+# Onda
 
 > Modern Computer-Aided Design (CAD) in the cloud
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Escotilla](./HATCH.md)
 -   [Anfitriones](./HOSTS.md)
@@ -16,7 +16,7 @@ onshape
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Texto
 
