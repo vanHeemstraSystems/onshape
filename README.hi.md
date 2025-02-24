@@ -1,4 +1,4 @@
-चपटा
+onshape
 
 # चपटा
 
@@ -9,11 +9,11 @@
 -   [शब्दकोष](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
--   [इमेजिस](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [नोकदार](./NX.md)
 -   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
--   [आवश्यकताएं](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
@@ -30,7 +30,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे आवेदन का निर्माण
+## 300 - Building Our Application
 
 देखना[README.md](./300/README.md)
 
