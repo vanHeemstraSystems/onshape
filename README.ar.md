@@ -28,7 +28,7 @@ onshape
 
 ## 200 - المتطلبات
 
-See [README.md](./200/README.md)
+يرى[README.md](./200/README.md)
 
 ## 300 - بناء تطبيقنا
 
@@ -36,4 +36,4 @@ See [README.md](./200/README.md)
 
 ## 400 - الخلاصة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
