@@ -2,18 +2,18 @@ ONSHAPE
 
 # ONSHAPE
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> 雲中的現代計算機輔助設計（CAD）
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
--   [詞彙表](./GLOSSARY.md)
--   [孵化](./HATCH.md)
--   [主持人](./HOSTS.md)
+-   [Glossary](./GLOSSARY.md)
+-   [Hatch](./HATCH.md)
+-   [Hosts](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
@@ -28,9 +28,9 @@ ONSHAPE
 
 ## 200-要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
-## 300-構建我們的應用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
