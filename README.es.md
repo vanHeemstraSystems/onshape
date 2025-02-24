@@ -2,14 +2,14 @@ onda
 
 # Onda
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> Diseño moderno asistido por computadora (CAD) en la nube
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Escotilla](./HATCH.md)
 -   [Anfitriones](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Imágenes](./IMAGES.md)
 -   [Nx](./NX.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
@@ -36,4 +36,4 @@ Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
-Ver[README.md](./400/README.md)
+See [README.md](./400/README.md)
