@@ -1,6 +1,6 @@
-onshape
+चपटा
 
-# चपटा
+# OnShape
 
 > Modern Computer-Aided Design (CAD) in the cloud
 
