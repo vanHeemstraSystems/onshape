@@ -15,7 +15,3 @@ See [README.md](./300/README.md)
 ## 400 - 10 Essential Onshape Tips
 
 See [README.md](./400/README.md)
-
-## 500 - Completion Criteria
-
-See [README.md](./500/README.md)
