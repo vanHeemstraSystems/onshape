@@ -2,12 +2,12 @@
 
 # चपटा
 
-> क्लाउड में आधुनिक कंप्यूटर एडेड डिज़ाइन (सीएडी)
+> Modern Computer-Aided Design (CAD) in the cloud
 
 -   [डीएनएस](./DNS.md)
--   [प्रलेखन](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Hatch](./HATCH.md)
+-   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
@@ -28,7 +28,7 @@
 
 ## 200 - आवश्यकताएँ
 
-देखना[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - हमारे आवेदन का निर्माण
 
