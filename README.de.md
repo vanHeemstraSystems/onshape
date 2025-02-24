@@ -2,7 +2,7 @@ Onshape
 
 # Onshape
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> Modernes computergestütztes Design (CAD) in der Cloud
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
