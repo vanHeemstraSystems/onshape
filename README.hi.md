@@ -11,14 +11,14 @@
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
--   [Podman](./PODMAN.md)
+-   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
-**Executive Summary**
+**कार्यकारी सारांश**
 
-मूलपाठ
+Text
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
@@ -34,6 +34,6 @@
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
