@@ -1,18 +1,18 @@
-repository-name
+ONSHAPE
 
-# 存儲庫名稱
+# ONSHAPE
 
-> 板條
+> 雲中的現代計算機輔助設計（CAD）
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
--   [詞彙表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
--   [Subman](./PODMAN.md)
--   [參考](./REFERENCES.md)
+-   [Podman](./PODMAN.md)
+-   [References](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
@@ -34,6 +34,6 @@ repository-name
 
 看[README.md](./300/README.md)
 
-## 400-結論
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
