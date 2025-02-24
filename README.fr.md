@@ -16,9 +16,9 @@ saliss
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Résumé exécutif**
+**Executive Summary**
 
-Texte
+Text
 
 Généré avec[Ritr](https://app.rytr.me)
 
