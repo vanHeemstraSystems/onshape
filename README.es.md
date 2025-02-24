@@ -20,7 +20,7 @@ onda
 
 Texto
 
-Generado con[Ritro](https://app.rytr.me)
+Generated with [Rytr](https://app.rytr.me)
 
 ## 100 - Introducción
 
