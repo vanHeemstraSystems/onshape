@@ -1,6 +1,6 @@
 onshape
 
-# OnShape
+# Onshape
 
 > Modern Computer-Aided Design (CAD) in de cloud
 
