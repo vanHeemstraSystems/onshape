@@ -18,9 +18,9 @@ ONSHAPE
 
 **執行摘要**
 
-Text
+文字
 
-Generated with [ritr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-簡介
 
