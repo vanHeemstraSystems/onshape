@@ -18,7 +18,7 @@ ONSHAPE
 
 **执行摘要**
 
-Text
+文本
 
 生成[ritr](https://app.rytr.me)
 
