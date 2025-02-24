@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+onshape
+# OnShape
 
-> Slugline
+> Modern Computer-Aided Design (CAD) in the cloud
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
