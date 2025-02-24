@@ -2,7 +2,7 @@ saliss
 
 # Saliss
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> Conception moderne assistée par ordinateur (CAD) dans le cloud
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -24,7 +24,7 @@ Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - exigences
 
