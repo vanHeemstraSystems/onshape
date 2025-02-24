@@ -2,13 +2,13 @@ ONSHAPE
 
 # ONSHAPE
 
-> 云中的现代计算机辅助设计（CAD）
+> Modern Computer-Aided Design (CAD) in the cloud
 
 -   [DNS](./DNS.md)
--   [文档](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
--   [Hosts](./HOSTS.md)
+-   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
@@ -34,6 +34,6 @@ ONSHAPE
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400-结论
 
 看[README.md](./400/README.md)
