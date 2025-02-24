@@ -2,11 +2,11 @@ onda
 
 # Onda
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> Diseño moderno asistido por computadora (CAD) en la nube
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
--   [Glosario](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Escotilla](./HATCH.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
