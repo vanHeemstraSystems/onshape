@@ -8,11 +8,11 @@ Repository-Namen
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
--   [Gastgeber](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [NX](./NX.md)
+-   [Nx](./NX.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
@@ -24,7 +24,7 @@ Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
 ## 200 - Anforderungen
 
@@ -36,4 +36,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
-Sehen[README.md](./400/README.md)
+See [README.md](./400/README.md)
