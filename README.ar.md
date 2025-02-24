@@ -5,10 +5,10 @@ onshape
 > التصميم الحديث بمساعدة الكمبيوتر (CAD) في السحابة
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [الوثائق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [فتحة](./HATCH.md)
--   [Hosts](./HOSTS.md)
+-   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
