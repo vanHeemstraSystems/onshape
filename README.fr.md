@@ -2,7 +2,7 @@ saliss
 
 # Saliss
 
-> Modern Computer-Aided Design (CAD) in the cloud
+> Conception moderne assistée par ordinateur (CAD) dans le cloud
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
