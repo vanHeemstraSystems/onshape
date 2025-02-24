@@ -1,6 +1,6 @@
 ONSHAPE
 
-# OnShape
+# ONSHAPE
 
 > 云中的现代计算机辅助设计（CAD）
 
@@ -8,7 +8,7 @@ ONSHAPE
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
--   [主持人](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
@@ -34,6 +34,6 @@ ONSHAPE
 
 看[README.md](./300/README.md)
 
-## 400-结论
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
