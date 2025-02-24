@@ -2,7 +2,7 @@
 
 # चपटा
 
-> क्लाउड में आधुनिक कंप्यूटर एडेड डिज़ाइन (सीएडी)
+> Modern Computer-Aided Design (CAD) in the cloud
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
@@ -12,17 +12,17 @@
 -   [इमेजिस](./IMAGES.md)
 -   [नोकदार](./NX.md)
 -   [सबमैन](./PODMAN.md)
--   [संदर्भ](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+Text
 
 के साथ उत्पन्न[रिट्र](https://app.rytr.me)
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
@@ -30,7 +30,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे आवेदन का निर्माण
+## 300 - Building Our Application
 
 देखना[README.md](./300/README.md)
 
